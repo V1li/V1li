@@ -1,2 +1,23 @@
-# https://vili.dev
-# https://github.com/v1li
+# NOTE - https://vili.dev
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Username 'v1li' has been changed to 'vil'.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEvRK/JG1rCB1jIxHPw6+ErMjyNKEFAmWDIz8ACgkQw6+ErMjy
+NKGUtg//Q9ssOmqH5PmWQ30MXDcWT52jVj2h6JgGoi7he1jHznlZt+lm4P2JqRRC
+3gB/SagQHuWqHUS6dDdQu/QBLEAl+HNngMksmSWceOCFHdfDAhp5jMmtTqMjT0Y3
+ilLimHLHWEbAxVkBKcV6t9wm3uuDyqGXFMLIUUOQRPuCifKnW9zWy0B1PuF6lr64
+aFjhsrlGQRrZmMSraRTQOMvjWJvDY/9Mvjr7lIFigduuU26MwdlJ7lzBlQP7sA9Q
+fXqQ98+2o3O+OvF783gxSpHpbEC7QFJeLx6bnwBjqPOeIItq6599N49kjRCsIzrM
+NwNqmXv9+IfwfTy3zROs5JuqP+EoGPmKxOeTUZ2n601qdDhwVD6ZSiKT/unSQSu/
+hSND5tdC+pP/qhLpuzjEt7whUfDIKkx7ZXFdfHnHgI0dQONCZX4j+/XwwbYPGEK/
+cfefIvV1a5s/M+sX2aLwi3Slpn9ggiLE8hDHWgZy+mAGKBz3UZ0FajRxI+PL48Kn
+wCtm2Zqj9lRvVgh4XG+sboqpuQUQvUhAvaEKpt0bNONSML8W1t5MGKRzRWIOGHCQ
+fderAGcEEhEPsf1ALhQIy370pXsm2U/61aqcRKrSJS0QTZRd8qnqJVqerwH9UIqA
+SFKK+O8OYaZIMDfx/N1JaLH21MApm/K3b2VUcaX3RdkIdDcMXmg=
+=BD76
+-----END PGP SIGNATURE-----
+```
